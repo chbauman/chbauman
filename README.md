@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @chbauman
-- 👀 I’m interested in Data Science, Signal Processing, Python, Typescript
-- 🌱 I’m currently learning web design, front- and backend.
-- 📫 How to reach me ...
+- 👀 I’m interested in Embedded Software Engineering, Data Science, Signal Processing, Web design.
 
 <!---
 chbauman/chbauman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
